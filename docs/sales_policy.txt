@@ -1,0 +1,21 @@
+=============================
+ACME SALES POLICY
+=============================
+
+REFUND POLICY
+Standard customers receive a 30-day refund.
+Enterprise customers receive a 60-day refund.
+Refund requests are processed within 5 business days
+
+-------------------------------
+
+DISCOUNT POLICY
+SMB Customers receive a 10% annual discount.
+Mid-Market customers receive 15% discount for purchases above $20,000.
+Enterprise customers receive custom pricing.
+
+-------------------------------
+
+SUPPLY POLICY
+Orders above $50,000 receive free implementation.
+Delivery time is usually between 5 and 10 business days.

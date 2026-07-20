@@ -1,0 +1,29 @@
+=========================
+PRODUCT PRICING
+=========================
+
+DataSuite Basic
+Price : $5000/year
+Includes
+Basic Dashboard
+Email Support
+SQL Reports
+
+--------------------------
+
+DataSuite Pro
+Price : $20,000/year
+Includes
+Everything in Basic
+API Access
+Priority Support
+Analytics Dashboard
+
+--------------------------
+
+Enterprise Suite
+Custom Pricing
+Dedicated Manager
+24x7 Support
+Unlimited Users
+Custom Integrations
